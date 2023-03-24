@@ -10,8 +10,8 @@
     image: ami-0557a15b87f6559cf
     id: "new"
     sec_group: "{{ id }}-sec"
-    aws_access_key: "AKIAWHC2JWHUSZST53EF"
-    aws_secret_key: "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"
+    aws_access_key: ""
+    aws_secret_key: ""
 
   tasks:
     - name: Facts
